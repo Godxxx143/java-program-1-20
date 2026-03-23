@@ -1,5 +1,5 @@
  import java.awt.*;
-{
+
 class Login 
 {
     public static void main(String args[])
@@ -31,6 +31,6 @@ class Login
         f.setSize(400,350);
         f.setLayout(null);
        f.setVisible(true);
-}
+
     }
 }
