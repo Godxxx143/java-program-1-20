@@ -6,7 +6,7 @@ class FrameDemo
     {
         Frame f = new Frame();
 
-        f.setTitle("sundar- BCA");
+        f.setTitle("Sundar- BCA");
         f.setSize(600,400);
         f.setVisible(true);
     }
