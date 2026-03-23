@@ -7,7 +7,7 @@ public class MyApps extends JFrame implements ActionListener {
     JTextField t1, t2, t3;
     JButton add, sub, mul, div;
 
-    MyApps() {   // ✅ Constructor name fixed
+    MyApps() {   
 
         setTitle("My App");
 
@@ -90,6 +90,6 @@ public class MyApps extends JFrame implements ActionListener {
     }
 
     public static void main(String[] args) {
-        new MyApps();  // ✅ fixed
+        new MyApps();  
     }
 }
